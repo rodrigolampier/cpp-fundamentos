@@ -1,2 +1,2 @@
 # cpp-fundamentos
-Repositório com scripts dos fundamentos da linguagem C++ para aprendizado.
+Repositório com os scripts sobre os fundamentos da linguagem de programaçao C++ para aprendizado dos conceitos básicos dessa linguagem.
